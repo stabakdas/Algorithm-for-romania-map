@@ -4,7 +4,7 @@ The below algorithms are implemented using Python to find the shortest path from
 **Uniform-Cost Search** (UCS)<br>
 **Source:** Zerind <br>
 **Destination:** Bucharest<br>
-Here a dictionary has been used. You may change the variables' named source and/or destination to update the path of DFS, BFS, UCS.
+Here a dictionary has been used. You may change the variables' named source and/or destination to update the path of DFS, BFS, UCS.<br>
 <img width="594" alt="Algorithm with Romania map" src="https://github.com/stabakdas/algorithm-romania-map/assets/132155297/5242025c-5f96-4b4f-b87a-5546cd5f8ee2">
 
 
